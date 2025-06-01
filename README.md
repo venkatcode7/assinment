@@ -70,8 +70,8 @@ The service is deployed at: localserver
 
 ## 📷 Screenshot
 
-![Button Screenshot](Screenshot (1).jpeg?raw=true)
-![Button Screenshot](Screenshot (2).jpeg?raw=true)
+![Button Screenshot](Screenshot1.jpeg?raw=true)
+![Button Screenshot](Screenshot2.jpeg?raw=true)
 ## Technologies Used
 
 - Node.js
