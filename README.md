@@ -66,7 +66,7 @@ The service uses a Contact collection with the following structure:
 
 ## Deployment
 
-The service is deployed at: [Your Deployment URL]
+The service is deployed at: localserver
 
 ## Technologies Used
 
